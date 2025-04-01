@@ -1,1 +1,3 @@
-#with open('input.txt')
+with open('input.txt', 'r') as file:
+    content = file.read()
+    print(content)
