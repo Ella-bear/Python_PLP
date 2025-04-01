@@ -1,1 +1,1 @@
-with open('input.txt')
+#with open('input.txt')
